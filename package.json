@@ -1,0 +1,8 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MurilloCunha/node-rest-api.git",
+  "author": "MurilloCunha <62815895+MurilloCunha@users.noreply.github.com>",
+  "license": "MIT"
+}

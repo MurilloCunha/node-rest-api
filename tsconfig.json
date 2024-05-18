@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-      "module": "commonjs",
+      "module": "ESNext",
       "moduleResolution": "node",
       "pretty": true,
       "sourceMap": true,
@@ -11,7 +11,7 @@
       "esModuleInterop": true
   },
   "include": [
-      "**/*.ts"
+      "src/**/*.ts"
   ],
   "exclude": [
       "node_modules"
